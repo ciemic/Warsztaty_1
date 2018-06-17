@@ -1,4 +1,5 @@
 package pl.coderslab.zadanie3;
+// Komputer zgaduje
 
 import java.util.Scanner;
 
