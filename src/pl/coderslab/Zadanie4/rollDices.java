@@ -1,5 +1,5 @@
 package pl.coderslab.Zadanie4;
-
+// roll dices
 import java.util.Random;
 import java.util.Scanner;
 
