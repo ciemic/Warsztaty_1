@@ -1,4 +1,5 @@
 package pl.coderslab.Zadanie2;
+//symulator lotto
 
 import java.util.Arrays;
 import java.util.Random;
